@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PauloRicardo002
-- 👀 I’m interested in aprender a programaar 
+- 👀 I’m interested in aprender a programar 
 - 🌱 I’m currently learning redes 1
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me salayriyri@gmail.com
